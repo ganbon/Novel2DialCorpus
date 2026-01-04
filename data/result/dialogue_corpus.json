@@ -1,0 +1,1917 @@
+[
+    {
+        "group": 0,
+        "uttreances": [
+            {
+                "utterance": "あ、太郎!朝だよ!",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "おはよう、花子。いつも通りだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そっちこそ寝ぼけた顔してるよ!今日は新学期の朝礼があるんだから、シャキッとしないと",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "分かったよ。朝礼か......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "おい、太郎!寝坊したのか?",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "次郎か。朝から元気だな",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "当たり前だろ。新学年だぜ。誰が新しいクラスメートか見物じゃないか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そういう次郎はどうなの?何か楽しみあるの?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "別に......ただ、新しい環境って刺激があるじゃないか。それだけだよな",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そんなことより、朝礼の時間だ。行くぞ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 1,
+        "uttreances": [
+            {
+                "utterance": "それでは桜子さん、自己紹介をお願いしますね",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はじめまして。桜子と申します。前の学校は東京にありました。この度、家の事情で転校してまいりました。皆様とお友達になれたら幸いです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "いいですね。では桜子さんは......",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "太郎君の隣の席でいいですね。太郎君、よろしく",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "え、あ、はい",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "おい、お前ずっと上の空だぜ。何考えてんだ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "別に......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 2,
+        "uttreances": [
+            {
+                "utterance": "ねえ、太郎。さっきから変だよ?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "変?別に変じゃ......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "いや、変だろ。朝礼の時から上の空だし、授業中も桜子の方を見ながら......",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そ、そんなことは......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "あ、認めた!太郎、桜子さんのこと好きなの?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "違うよ!昔......似ている人を知ってるだけで......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "昔?",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 3,
+        "uttreances": [
+            {
+                "utterance": "あ、鬼ごっこやろうって言ったのに、逃げちゃった",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "つかまえたよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 4,
+        "uttreances": [
+            {
+                "utterance": "ね、太郎君。我が家が転校することになったんだ",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "転校?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "うん。お父さんの仕事で、東京に行くことになったんだって",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そっか......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 5,
+        "uttreances": [
+            {
+                "utterance": "ね、太郎君。これからもずっと、桜のこと覚えてくれる?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "覚えてるよ。ずっと",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 6,
+        "uttreances": [
+            {
+                "utterance": "......そっか。だからあの子に反応したわけか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "でも、本当に同じ人かは分からないよ。ただ似ているだけかもしれない",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 7,
+        "uttreances": [
+            {
+                "utterance": "試してみたら?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "試す?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "だって、本当に桜子さんなら、太郎のこと覚えてるかもじゃん",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "それは......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 8,
+        "uttreances": [
+            {
+                "utterance": "あ、桜子さん",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。何か御用ですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "あ、いや。今日が初日だから、学校の案内をしましょうか",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "そうですか。ありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 9,
+        "uttreances": [
+            {
+                "utterance": "ねえ、桜子さん。前の学校はどこでした?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "東京の学校です。ずっとそこにいました",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうですか。転校は大変だったでしょう",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。引っ越しは大きな決断でした",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "転校したのはいつですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "小学校の時と、それから今年です",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 10,
+        "uttreances": [
+            {
+                "utterance": "小学校の時ですか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はい。小学六年生の時に、引っ越してしまいました。その時のことはあまり覚えていないのですが......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何か思い出すことはありますか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "公園で誰かと遊んでいた記憶があります。でも、顔は覚えていないんです。申し訳ありません",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "いや、大丈夫ですよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "僕は......その人です。公園で一緒に遊んでいた",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "え?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 11,
+        "uttreances": [
+            {
+                "utterance": "太郎...... 太郎君?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうです。覚えてくれたんですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "いえ、私が......思い出そうとしているんです。公園で遊んでいた男の子。その子の名前が......太郎君だった気がします",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "やっぱり",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "太郎君。ずっと、覚えていてくれたのですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "はい。ずっと",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 12,
+        "uttreances": [
+            {
+                "utterance": "へえ。やっぱり好きなんじゃん",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "違うよ。昔の知り合いだから、案内してあげてるだけだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "嘘だ。絶対好きだ。見てみろ。今日も放課後に桜子と一緒に行ってたぞ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そ、そっか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 13,
+        "uttreances": [
+            {
+                "utterance": "この公園ですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうだね。ここで毎日遊んでいた",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 14,
+        "uttreances": [
+            {
+                "utterance": "あ、桜の木......",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "そっか。この木を見て、思い出したんだ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君。ずっと私のことを覚えていてくれたんですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "当たり前だよ。約束したから",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 15,
+        "uttreances": [
+            {
+                "utterance": "今年は京都に行きます。古都の文化を学ぶいい機会ですね",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "修学旅行か。いいなあ",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "まあ、いつもと違う環境だ。それなりに楽しみはあるだろ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 16,
+        "uttreances": [
+            {
+                "utterance": "修学旅行、楽しみですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。京都には......昔の思い出があります",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "思い出?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。両親と一緒に行ったことがあります。とても美しかったのを覚えています",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうですか。なら楽しみですね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 17,
+        "uttreances": [
+            {
+                "utterance": "桜子。お父さんですよ",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "お父さん。何かご用ですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "実は......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "失礼。君が桜子の新しい友達かな",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "あ、はい。同じクラスの太郎です",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そうか。よろしく頼む",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 18,
+        "uttreances": [
+            {
+                "utterance": "実は急な話なんだが......君の伯父さんが体調を崩してね。お母さんと一緒に、今週末京都に行くことになった。修学旅行の前だから、参加できないかもしれないんだ",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "え......修学旅行に参加できない?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうなる可能性が高い。申し訳ないが、先生に連絡してくれるかな",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 19,
+        "uttreances": [
+            {
+                "utterance": "太郎、どうしたの?ずっと上の空だね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "ああ、いや。修学旅行のことでね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "その子、大切な人なんだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "え......別に",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "正直になるといいよ。人生は短いんだから",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 20,
+        "uttreances": [
+            {
+                "utterance": "修学旅行、どうなったんですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。家族で京都に行くことに決まりました。申し訳ありません。修学旅行には参加できません",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうですか......",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 21,
+        "uttreances": [
+            {
+                "utterance": "太郎君。もし時間があれば......京都で会いませんか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "え?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "我が家は修学旅行と同じ時期に京都に行きます。もしよろしければ、清水寺の前で......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "ええ、もちろんです!",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そうですか。ありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 22,
+        "uttreances": [
+            {
+                "utterance": "おい、太郎。何か浮かれてないか?",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "浮かれてる?",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そうだろ。朝から笑ってる。何か楽しいことがあるのか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "別に......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 23,
+        "uttreances": [
+            {
+                "utterance": "あ、桜子さんと約束したんだ!",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "え、何で分かるんですか",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "だって、太郎の笑顔が桜子さんと一緒にいる時と同じだもん",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "花子、何を言ってるんだ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "本当だよ。太郎、桜子さんのこと好きなんだ。認めちゃいなよ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そ、そんなことは",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "あ、ほら。赤くなった",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "分かったよ。お前が好きなのは分かった。だったら、修学旅行で桜子に何か伝えてこいよ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "え?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そんなの分かりきってるだろ。好きなら好きって言わないと",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 24,
+        "uttreances": [
+            {
+                "utterance": "おい、太郎。何か落ち着きがないな",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "そ、そうですか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 25,
+        "uttreances": [
+            {
+                "utterance": "先生、ちょっとトイレに行ってもいいですか",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "いいですか",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "ああ、いいよ",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 26,
+        "uttreances": [
+            {
+                "utterance": "太郎君......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "やあ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 27,
+        "uttreances": [
+            {
+                "utterance": "修学旅行なのに来ていただけて......ありがとうございます",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "当たり前だよ。約束したじゃん",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 28,
+        "uttreances": [
+            {
+                "utterance": "綺麗ですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 29,
+        "uttreances": [
+            {
+                "utterance": "太郎君。ここには来たことがありますか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "初めてだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そうですか。私も......実は来たことはないんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そなんですか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はい。昔京都に来た時は、別のところに行ったんです。清水寺には......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何ですか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "いえ。何でもありません",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 30,
+        "uttreances": [
+            {
+                "utterance": "太郎君。実は......お父さんから聞いたんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何を?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "私たちが......また引っ越す可能性があるんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "え......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "おそらく、夏休み前には。アメリカへの転勤が決まったそうです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そんな......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 31,
+        "uttreances": [
+            {
+                "utterance": "いつまでですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "分かりません。おそらく、数年だと思います",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そんなの嫌だよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 32,
+        "uttreances": [
+            {
+                "utterance": "太郎君......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "だってさ。やっと会えたのに。また別れるなんて",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "僕は......君のことが好きだよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "昔の約束とか。そういうのじゃなくて。今の君が好きだ。だから......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "だから、別れたくない。勝手だけど......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君。ありがとう",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "ありがとう?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "はい。好きだと言ってくれて。本当に......ありがとう",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "だからさ。何かいい方法があるはずだよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "まだ。何も決まったわけじゃない。チャンスは絶対ある",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 33,
+        "uttreances": [
+            {
+                "utterance": "先生。ちょっと相談があるんです",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "どうした、太郎?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "実は......桜子さんが転校するかもしれないんです。アメリカへの転勤で",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "そうなのか。聞いていないが......",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はい。それで......",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 34,
+        "uttreances": [
+            {
+                "utterance": "彼女の気持ちや......考えを聞く時間を作ることはできませんか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "時間を作る?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はい。転校が決まる前に",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "君、桜子さんのことが大切なんだな",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はい",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "分かった。何かできることがあれば、協力するよ",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 35,
+        "uttreances": [
+            {
+                "utterance": "何かいい方法ないかな",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そりゃ難しいな。アメリカへの転勤となると、個人でどうこうできる話じゃない",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "でも、何か方法があるはずだよ",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "例えば?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "例えば......桜子さんの両親に会って、頼み込むとか?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "え......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "それが一番だと思うけど",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "できるだろうか",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "やってみないと分からないだろ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 36,
+        "uttreances": [
+            {
+                "utterance": "太郎君。どうしましたか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "あ、桜子さん。実は明日、一緒にどこか行きませんか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "明日ですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうだね。放課後。時間があれば",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "分かりました。どこに行きたいんですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "公園。あの桜の木がある",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "分かりました。明日、お待ちしています",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 37,
+        "uttreances": [
+            {
+                "utterance": "はい。何ですか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "アメリカへの転勤。もう決まったのですか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "はい。お父さんから正式に聞きました。七月に出発することになります",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そっか......",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "でもね。僕は諦めない。君と別れたくない",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "だから、お父さんとお母さんに会わせてくれませんか。僕の気持ちを伝えたいんだ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "え......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "君が好きだ。だから、日本に残ってほしい。もし残れなくても、いつか絶対に帰ってきてほしい",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君......",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "分かりました。両親に会わせます。いつ来ていただけますか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "明日でもいい",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 38,
+        "uttreances": [
+            {
+                "utterance": "太郎君。来ていただきありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "では、居間へ",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 39,
+        "uttreances": [
+            {
+                "utterance": "こんばんは。太郎と申します",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "こちらこそ。桜子がお世話になっています",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "いえ。あの、実は...",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "僕は、桜子さんが好きです",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "そうですか。娘から聞いています",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "え?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "ええ。昨晩、桜子が全て話してくれました。昔あなたに会っていたこと。そして、今...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "で、ですから...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "アメリカへの転勤。何とか...日本に残ることはできないでしょうか",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "それが...",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "実は、この転勤は...",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 40,
+        "uttreances": [
+            {
+                "utterance": "会社からの強い要望なんだ。責任ある立場だからね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そんな...",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 41,
+        "uttreances": [
+            {
+                "utterance": "でも、一つ方法がないわけではないんです",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "え?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "娘が日本に残りたいと強く望めば...",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "学生寮に入るとか、親戚に預けるとか。そういう選択肢もあります",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "本当ですか?",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "ただし、本人の強い意志が必要ですね",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 42,
+        "uttreances": [
+            {
+                "utterance": "桜子さん。どうですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "私...日本に残りたいです。太郎君と一緒にいたいです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そう決めたのなら...",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            },
+            {
+                "utterance": "お父さんも、お母さんも応援するわ",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 43,
+        "uttreances": [
+            {
+                "utterance": "太郎君。本当にありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "いや。僕こそ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 44,
+        "uttreances": [
+            {
+                "utterance": "親戚の家に預けてもらえるなら、日本に残れます",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そうだね。良かった",
+                "speaker_id": -1,
+                "speaker_name": "不明"
+            }
+        ]
+    },
+    {
+        "group": 45,
+        "uttreances": [
+            {
+                "utterance": "太郎君...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "ん?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "これからも...ずっと一緒にいてくれますか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "当たり前だよ。約束したから",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "昔の約束。覚えていますか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何の?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "桜のことをずっと覚えていてくれるって...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 46,
+        "uttreances": [
+            {
+                "utterance": "あ、太郎と桜子さんが付き合ってるんだって",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "付き合ってる?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "だって、いつも一緒にいるじゃん。もう付き合ってるのと同じだよ",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            }
+        ]
+    },
+    {
+        "group": 47,
+        "uttreances": [
+            {
+                "utterance": "よかったな。最初の頃の上の空みたいな状態から、やっと進んだか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "う...うるさいよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 48,
+        "uttreances": [
+            {
+                "utterance": "太郎君。本当に...私のために頑張ってくれてありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そんな。当たり前だよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "でも、本当に嬉しいです。太郎君のおかげで...私はここにいられます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そっか",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 49,
+        "uttreances": [
+            {
+                "utterance": "太郎。夏祭りに行かないか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "夏祭り?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "そうだ。毎年この季節にあるんだよ。花火も出るし",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 50,
+        "uttreances": [
+            {
+                "utterance": "花子も一緒?",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "ああ。それにな...",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "お前と桜子も来たらいいんじゃないか",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "え...",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "四人で行けば、楽しいだろ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 51,
+        "uttreances": [
+            {
+                "utterance": "桜子さん。よかったら...夏祭りに行きませんか",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "夏祭りですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "はい。次郎と花子も行くって。四人で",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "分かりました。喜んでお付き合いします",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 52,
+        "uttreances": [
+            {
+                "utterance": "わあ!綺麗だよ!",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "落ち着けよ。まだ始まったばかりだ",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            }
+        ]
+    },
+    {
+        "group": 53,
+        "uttreances": [
+            {
+                "utterance": "太郎、たこ焼き食べたい!",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "分かったよ。買ってきますね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君。一緒に行ってもいいですか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "いいですよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 54,
+        "uttreances": [
+            {
+                "utterance": "太郎君。綺麗ですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 55,
+        "uttreances": [
+            {
+                "utterance": "でも、君の方が綺麗だよ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "太郎君...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 56,
+        "uttreances": [
+            {
+                "utterance": "太郎君。決めたことがあります",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何ですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "私...学園を変わらずに、親戚の家から通うことになりました",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "本当ですか",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。両親と話し合って、決めました",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "良かった",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 57,
+        "uttreances": [
+            {
+                "utterance": "離れずにいられるね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。太郎君のおかげです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 58,
+        "uttreances": [
+            {
+                "utterance": "太郎。告白の時はどうだった?",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "う...別に",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "いや、本当だろ。あんなに上の空だったのに",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "次郎君...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "実は、太郎君の気持ちは分かっていました",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "え?本当?",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "はい。顔に出ていました",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "ああ、そっか。隠せてなかったんだ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "でも、太郎君がちゃんと気持ちを伝えてくれたから...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "私も、本当に嬉しかった",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 59,
+        "uttreances": [
+            {
+                "utterance": "太郎君。今日も素敵な日ですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そうだね。君がいるからね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 60,
+        "uttreances": [
+            {
+                "utterance": "太郎君。私...ずっと考えていたんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何を?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "昔、別れた時。太郎君は私のことを覚えてくれていた",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "ああ",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "それで...今、また会えた。そして...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "また別れることがないように...私も、太郎君のことを忘れず、覚えていようと思うんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "桜子さん...",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 61,
+        "uttreances": [
+            {
+                "utterance": "何をしようか",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "何でもいいですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 62,
+        "uttreances": [
+            {
+                "utterance": "では...カフェにしましょう。私がケーキを焼きます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "本当?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "はい。自信があります",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 63,
+        "uttreances": [
+            {
+                "utterance": "今日もいい香りだね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "ありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "へえ。桜子さん、こんなに上手いんだ",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            },
+            {
+                "utterance": "実は、洋菓子が好きなんです。お父さんがフランスにいた時に、いろいろ学びました",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "フランス!すごい",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            }
+        ]
+    },
+    {
+        "group": 64,
+        "uttreances": [
+            {
+                "utterance": "こんなに来るとは思わなかったな",
+                "speaker_id": 2,
+                "speaker_name": "次郎"
+            },
+            {
+                "utterance": "クオリティが高いからだ",
+                "speaker_id": 3,
+                "speaker_name": "花子"
+            }
+        ]
+    },
+    {
+        "group": 65,
+        "uttreances": [
+            {
+                "utterance": "太郎君。踊りませんか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "え?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "この曲。素敵だと思うんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    },
+    {
+        "group": 66,
+        "uttreances": [
+            {
+                "utterance": "太郎君。ありがとうございます",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "何ですか?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "私を支えてくれて。日本に残してくれて。そして...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "私のことを好きでいてくれて",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "当たり前だよ。君は...僕の大切な人だから",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            }
+        ]
+    },
+    {
+        "group": 67,
+        "uttreances": [
+            {
+                "utterance": "太郎君。告白してくれた時のこと...覚えていますか?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "もちろん。あの時は...緊張したね",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "私も...実は怖かったんです",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "怖かった?",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "はい。昔別れた時のような...悲しみが来るんじゃないか...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "でも、太郎君は...来てくれた。そして...",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            },
+            {
+                "utterance": "そして?",
+                "speaker_id": 0,
+                "speaker_name": "太郎"
+            },
+            {
+                "utterance": "一緒にいてくれるんですね",
+                "speaker_id": 1,
+                "speaker_name": "桜子"
+            }
+        ]
+    }
+]

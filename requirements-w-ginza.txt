@@ -1,0 +1,17 @@
+--index-url "https://download.pytorch.org/whl/cu124"
+--extra-index-url "https://pypi.org/simple"
+
+-e .
+spacy~=3.8.8
+ginza~=5.2.0
+accelerate~=1.11.0
+transformers~=4.30.2
+pandas~=2.3.3
+mecab-python3~=1.0.10
+cupy-cuda12x~=13.6.0
+pykakasi~=2.3.0
+fugashi[unidic-lite]~=1.5.2
+sentence_transformers~=2.2.2
+huggingface_hub<0.25.0
+
+https://github.com/megagonlabs/ginza/releases/download/v5.2.0/ja_ginza_bert_large-5.2.0b1-py3-none-any.whl
