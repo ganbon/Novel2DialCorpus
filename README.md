@@ -164,14 +164,14 @@ $ ./scripts/create_venvs.sh
 ### 1. Preprocess
 ```shell
 $ source ./venv-w-ginza/bin/activate 
-$ python ./scripts/create_corpus_format.py ./data/sample_novel/　./data/result/novel_data.csv
+$ python ./scripts/create_corpus_format.py ./data/sample_novel/ ./data/result/novel_data.csv
 $ deactivate
 ```
 ### 2. Create Character List
 小説内から人物名を抽出し，人物リストを作成します。
 ```shell
 $ source ./venv-w-ginza/bin/activate 
-$ python  ./scripts/create_character_name_list.py ./data/sample_novel/novel_data.csv　./data/result/character.json 
+$ python ./scripts/create_character_name_list.py ./data/sample_novel/novel_data.csv ./data/result/character.json 
 $ deactivate
 ```
 
@@ -183,7 +183,7 @@ $ deactivate
 2文以上連続している台詞群を会話とみなします。
 ```shell
 $ source ./venv-w-ginza/bin/activate 
-$ python ./scripts/assign_dialogue_group.py ./data/result/novel_data.csv　./data/result/novel_data.csv 
+$ python ./scripts/assign_dialogue_group.py ./data/result/novel_data.csv ./data/result/novel_data.csv 
 $ deactivate
 ```
 ### 4. Idetify Speaker
