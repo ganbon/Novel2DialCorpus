@@ -75,7 +75,7 @@ class RuleIdentifySpeaker(BaseIdentifySpeaker):
                     and self.group_list[i] != -1
                 ):
                     subject_list += self.extract_nsubj(self.sentence_list[i - 1])
-            elif i < len(self.sentence_list) - 2:
+            if i < len(self.sentence_list) - 2:
                 if (
                     not self.determine_line(self.sentence_list[i + 1])
                     and not self.determine_line(self.sentence_list[i + 2])

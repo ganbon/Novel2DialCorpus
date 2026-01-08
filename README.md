@@ -192,19 +192,19 @@ $ deactivate
 #### Rule Method
 ```shell
 $ source ./venv-w-ginza/bin/activate 
-$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv　./data/result/novel_data.csv
+$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv ./data/result/character.json ./data/result/novel_data.csv --use_ginza
 $ deactivate
 ```
 #### LLM Method
 ```shell
 $ source ./venv-wo-ginza/bin/activate 
-$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv　./data/result/novel_data.csv --use_llm
+$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv ./data/result/character.json ./data/result/novel_data.csv --use_llm
 $ deactivate
 ```
 #### Tone Metohd
 ```shell
 $ source ./venv-wo-ginza/bin/activate 
-$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv　./data/result/novel_data.csv
+$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv ./data/result/character.json ./data/result/novel_data.csv
 $ deactivate
 ```
 
@@ -215,7 +215,7 @@ $ deactivate
 会話グループの作成と発話者特定をした小説を用いて会話コーパスを構築します。
 ```shell
 $ source ./venv-w-ginza/bin/activate 
-$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv　./data/result/character.json　./data/result/dialogue_corpus.json　
+$ python ./scripts/identify_speaker.py ./data/result/novel_data.csv ./data/result/character.json ./data/result/dialogue_corpus.json　
 $ deactivate
 ```
 
