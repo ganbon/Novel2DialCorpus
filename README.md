@@ -139,6 +139,7 @@ id,section,group,speaker,sentence,rule_candidate,llm_candidate,tone_candidate,to
 
 ## Data
 Claude Haiku 3.5で生成した疑似小説をサンプルデータとして`./data/sample_novel/`に配置しています。
+本データの権利に関しては、Claudeの[消費者利用規約](https://www.anthropic.com/legal/consumer-terms)を遵守しています。
 
 ## Model
 以下の3つのモデルを使用しています。
@@ -225,7 +226,10 @@ $ ./scripts/run.sh ./data/sample_novel/ ./data/result/novel_data.csv ./data/resu
 ```
 
 ## License
-本手法はMITライセンスで提供しています．
+本手法はMITライセンスで提供しています。
+> [!NOTE] 
+> 本手法で用いる構築元の小説データ（小説等のテキスト）の著作権および利用権限については、利用者ご自身の責任において管理してください。
+> 著作権法上の例外（日本国著作権法第30条の4「情報解析のための利用」など）の範囲内での利用、または著作者の許諾を得た上での利用を前提としています。
 
 ## Citation
 TBU
