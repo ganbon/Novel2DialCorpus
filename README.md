@@ -72,7 +72,7 @@ Novel2DialCorpusは日本語の小説テキストから台詞群を会話とし�
     }
 ```
 
-### character.josn
+### 2. character.josn
 小説に登場する人物名を抽出したリスト
 | key | type | content |
 | :--- | :--- | :--- |
@@ -112,7 +112,7 @@ Novel2DialCorpusは日本語の小説テキストから台詞群を会話とし�
 ]
 ```
 
-### novel_data.csv
+### 3. novel_data.csv
 台詞に対して会話グループID、各手法で特定した発話者IDが付与されたcsvファイル
 
 | key | type | content |
@@ -187,7 +187,7 @@ $ source ./venv-w-ginza/bin/activate
 $ python ./scripts/assign_dialogue_group.py ./data/result/novel_data.csv ./data/result/novel_data.csv 
 $ deactivate
 ```
-### 4. Idetify Speaker
+### 4. Identify Speaker
 会話グループに属する台詞に対して発話者を特定します。
 3つの手法を用いて発話者を特定します。
 #### Rule Method
@@ -232,4 +232,11 @@ $ ./scripts/run.sh ./data/sample_novel/ ./data/result/novel_data.csv ./data/resu
 > 著作権法上の例外（日本国著作権法第30条の4「情報解析のための利用」など）の範囲内での利用、または著作者の許諾を得た上での利用を前提としています。
 
 ## Citation
-TBU
+```bibtex
+@inproceedings{iwamoto-etal-2026-novel2dialcorpus,
+    title = " Novel2DialCorpus:小説を用いた対話コーパスの自動構築手法",
+    author = "岩本 和真 and 安藤 一秋",
+    booktitle = "言語処理学会第32回年次大会発表論文集",
+    year = "2026"
+}
+```
