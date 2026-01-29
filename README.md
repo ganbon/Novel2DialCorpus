@@ -149,7 +149,7 @@ Claude Haiku 3.5で生成した疑似小説をサンプルデータとして`./d
 
 ## Experimental Setup
 ### Device
-- GPU:NVIDIA GeForce RTX 4090 16GB
+- GPU:NVIDIA GeForce RTX 4090 32GB
 ### Python Enviroments
 pythonの仮想環境ツールとして[uv](https://docs.astral.sh/uv/)が必要です
 - uvのインストール
