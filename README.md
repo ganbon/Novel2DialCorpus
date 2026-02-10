@@ -117,11 +117,15 @@ Novel2DialCorpusは日本語の小説テキストから台詞群を会話とし�
 
 | key | type | content |
 | :--- | :--- | :--- |
+| id |int | 文章ID |
+| section |int | セクションID |
 | group |int | 会話のグループID |
-| utterances | list[dict] | 会話の内容 |
-| utterance | str | 発話 |
-| spekaer_id | int | 発話者ID |
-| speaker_name | str | 発話者名 |
+| speaker |int | 台詞の発話者ID |
+| utterance | str | 小説文章 |
+| rule_candidate | int | ルールベースによる発話者候補 |
+| llm_candidate | int | LLMによる発話者候補  |
+| tone_candidate | list[int] | 口調による発話者候補1  |
+| tone_sim_info | list[int] | 口調による発話者候補2  |
 ```csv
 id,section,group,speaker,sentence,rule_candidate,llm_candidate,tone_candidate,tone_sim_info
 0,0,-1,-1,春日高校の校門前。,-1,-1,[],[]
