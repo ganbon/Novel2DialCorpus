@@ -1,7 +1,7 @@
 [
     {
         "group": 0,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、太郎!朝だよ!",
                 "speaker_id": 3,
@@ -56,7 +56,7 @@
     },
     {
         "group": 1,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "それでは桜子さん、自己紹介をお願いしますね",
                 "speaker_id": -1,
@@ -96,7 +96,7 @@
     },
     {
         "group": 2,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "ねえ、太郎。さっきから変だよ?",
                 "speaker_id": 3,
@@ -136,7 +136,7 @@
     },
     {
         "group": 3,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、鬼ごっこやろうって言ったのに、逃げちゃった",
                 "speaker_id": -1,
@@ -151,7 +151,7 @@
     },
     {
         "group": 4,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "ね、太郎君。我が家が転校することになったんだ",
                 "speaker_id": -1,
@@ -176,7 +176,7 @@
     },
     {
         "group": 5,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "ね、太郎君。これからもずっと、桜のこと覚えてくれる?",
                 "speaker_id": -1,
@@ -191,7 +191,7 @@
     },
     {
         "group": 6,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "......そっか。だからあの子に反応したわけか",
                 "speaker_id": 2,
@@ -206,7 +206,7 @@
     },
     {
         "group": 7,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "試してみたら?",
                 "speaker_id": 3,
@@ -231,7 +231,7 @@
     },
     {
         "group": 8,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、桜子さん",
                 "speaker_id": 0,
@@ -256,7 +256,7 @@
     },
     {
         "group": 9,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "ねえ、桜子さん。前の学校はどこでした?",
                 "speaker_id": 0,
@@ -291,7 +291,7 @@
     },
     {
         "group": 10,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "小学校の時ですか?",
                 "speaker_id": -1,
@@ -331,7 +331,7 @@
     },
     {
         "group": 11,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎...... 太郎君?",
                 "speaker_id": 1,
@@ -366,7 +366,7 @@
     },
     {
         "group": 12,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "へえ。やっぱり好きなんじゃん",
                 "speaker_id": 2,
@@ -391,7 +391,7 @@
     },
     {
         "group": 13,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "この公園ですね",
                 "speaker_id": -1,
@@ -406,7 +406,7 @@
     },
     {
         "group": 14,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、桜の木......",
                 "speaker_id": -1,
@@ -431,7 +431,7 @@
     },
     {
         "group": 15,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "今年は京都に行きます。古都の文化を学ぶいい機会ですね",
                 "speaker_id": -1,
@@ -451,7 +451,7 @@
     },
     {
         "group": 16,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "修学旅行、楽しみですか?",
                 "speaker_id": 0,
@@ -481,7 +481,7 @@
     },
     {
         "group": 17,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "桜子。お父さんですよ",
                 "speaker_id": -1,
@@ -516,7 +516,7 @@
     },
     {
         "group": 18,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "実は急な話なんだが......君の伯父さんが体調を崩してね。お母さんと一緒に、今週末京都に行くことになった。修学旅行の前だから、参加できないかもしれないんだ",
                 "speaker_id": -1,
@@ -536,7 +536,7 @@
     },
     {
         "group": 19,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎、どうしたの?ずっと上の空だね",
                 "speaker_id": 0,
@@ -566,7 +566,7 @@
     },
     {
         "group": 20,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "修学旅行、どうなったんですか?",
                 "speaker_id": 0,
@@ -586,7 +586,7 @@
     },
     {
         "group": 21,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。もし時間があれば......京都で会いませんか?",
                 "speaker_id": 1,
@@ -616,7 +616,7 @@
     },
     {
         "group": 22,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "おい、太郎。何か浮かれてないか?",
                 "speaker_id": 2,
@@ -641,7 +641,7 @@
     },
     {
         "group": 23,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、桜子さんと約束したんだ!",
                 "speaker_id": 3,
@@ -696,7 +696,7 @@
     },
     {
         "group": 24,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "おい、太郎。何か落ち着きがないな",
                 "speaker_id": 2,
@@ -711,7 +711,7 @@
     },
     {
         "group": 25,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "先生、ちょっとトイレに行ってもいいですか",
                 "speaker_id": -1,
@@ -731,7 +731,7 @@
     },
     {
         "group": 26,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君......",
                 "speaker_id": 1,
@@ -746,7 +746,7 @@
     },
     {
         "group": 27,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "修学旅行なのに来ていただけて......ありがとうございます",
                 "speaker_id": -1,
@@ -761,7 +761,7 @@
     },
     {
         "group": 28,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "綺麗ですね",
                 "speaker_id": 1,
@@ -776,7 +776,7 @@
     },
     {
         "group": 29,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。ここには来たことがありますか?",
                 "speaker_id": -1,
@@ -816,7 +816,7 @@
     },
     {
         "group": 30,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。実は......お父さんから聞いたんです",
                 "speaker_id": -1,
@@ -851,7 +851,7 @@
     },
     {
         "group": 31,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "いつまでですか?",
                 "speaker_id": 0,
@@ -871,7 +871,7 @@
     },
     {
         "group": 32,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君......",
                 "speaker_id": 1,
@@ -936,7 +936,7 @@
     },
     {
         "group": 33,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "先生。ちょっと相談があるんです",
                 "speaker_id": 0,
@@ -966,7 +966,7 @@
     },
     {
         "group": 34,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "彼女の気持ちや......考えを聞く時間を作ることはできませんか?",
                 "speaker_id": -1,
@@ -1001,7 +1001,7 @@
     },
     {
         "group": 35,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "何かいい方法ないかな",
                 "speaker_id": 0,
@@ -1051,7 +1051,7 @@
     },
     {
         "group": 36,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。どうしましたか?",
                 "speaker_id": -1,
@@ -1091,7 +1091,7 @@
     },
     {
         "group": 37,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "はい。何ですか?",
                 "speaker_id": -1,
@@ -1156,7 +1156,7 @@
     },
     {
         "group": 38,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。来ていただきありがとうございます",
                 "speaker_id": 1,
@@ -1171,7 +1171,7 @@
     },
     {
         "group": 39,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "こんばんは。太郎と申します",
                 "speaker_id": -1,
@@ -1231,7 +1231,7 @@
     },
     {
         "group": 40,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "会社からの強い要望なんだ。責任ある立場だからね",
                 "speaker_id": 0,
@@ -1246,7 +1246,7 @@
     },
     {
         "group": 41,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "でも、一つ方法がないわけではないんです",
                 "speaker_id": -1,
@@ -1281,7 +1281,7 @@
     },
     {
         "group": 42,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "桜子さん。どうですか?",
                 "speaker_id": 0,
@@ -1306,7 +1306,7 @@
     },
     {
         "group": 43,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。本当にありがとうございます",
                 "speaker_id": -1,
@@ -1321,7 +1321,7 @@
     },
     {
         "group": 44,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "親戚の家に預けてもらえるなら、日本に残れます",
                 "speaker_id": -1,
@@ -1336,7 +1336,7 @@
     },
     {
         "group": 45,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君...",
                 "speaker_id": 1,
@@ -1376,7 +1376,7 @@
     },
     {
         "group": 46,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、太郎と桜子さんが付き合ってるんだって",
                 "speaker_id": 3,
@@ -1396,7 +1396,7 @@
     },
     {
         "group": 47,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "よかったな。最初の頃の上の空みたいな状態から、やっと進んだか",
                 "speaker_id": 2,
@@ -1411,7 +1411,7 @@
     },
     {
         "group": 48,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。本当に...私のために頑張ってくれてありがとうございます",
                 "speaker_id": 1,
@@ -1436,7 +1436,7 @@
     },
     {
         "group": 49,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎。夏祭りに行かないか",
                 "speaker_id": 2,
@@ -1456,7 +1456,7 @@
     },
     {
         "group": 50,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "花子も一緒?",
                 "speaker_id": 2,
@@ -1486,7 +1486,7 @@
     },
     {
         "group": 51,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "桜子さん。よかったら...夏祭りに行きませんか",
                 "speaker_id": 0,
@@ -1511,7 +1511,7 @@
     },
     {
         "group": 52,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "わあ!綺麗だよ!",
                 "speaker_id": 3,
@@ -1526,7 +1526,7 @@
     },
     {
         "group": 53,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎、たこ焼き食べたい!",
                 "speaker_id": 3,
@@ -1551,7 +1551,7 @@
     },
     {
         "group": 54,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。綺麗ですね",
                 "speaker_id": -1,
@@ -1566,7 +1566,7 @@
     },
     {
         "group": 55,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "でも、君の方が綺麗だよ",
                 "speaker_id": 0,
@@ -1581,7 +1581,7 @@
     },
     {
         "group": 56,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。決めたことがあります",
                 "speaker_id": -1,
@@ -1616,7 +1616,7 @@
     },
     {
         "group": 57,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "離れずにいられるね",
                 "speaker_id": 0,
@@ -1631,7 +1631,7 @@
     },
     {
         "group": 58,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎。告白の時はどうだった?",
                 "speaker_id": 2,
@@ -1686,7 +1686,7 @@
     },
     {
         "group": 59,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。今日も素敵な日ですね",
                 "speaker_id": -1,
@@ -1701,7 +1701,7 @@
     },
     {
         "group": 60,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。私...ずっと考えていたんです",
                 "speaker_id": -1,
@@ -1741,7 +1741,7 @@
     },
     {
         "group": 61,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "何をしようか",
                 "speaker_id": 0,
@@ -1756,7 +1756,7 @@
     },
     {
         "group": 62,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "では...カフェにしましょう。私がケーキを焼きます",
                 "speaker_id": -1,
@@ -1776,7 +1776,7 @@
     },
     {
         "group": 63,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "今日もいい香りだね",
                 "speaker_id": 0,
@@ -1806,7 +1806,7 @@
     },
     {
         "group": 64,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "こんなに来るとは思わなかったな",
                 "speaker_id": 2,
@@ -1821,7 +1821,7 @@
     },
     {
         "group": 65,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。踊りませんか?",
                 "speaker_id": -1,
@@ -1841,7 +1841,7 @@
     },
     {
         "group": 66,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。ありがとうございます",
                 "speaker_id": -1,
@@ -1871,7 +1871,7 @@
     },
     {
         "group": 67,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "太郎君。告白してくれた時のこと...覚えていますか?",
                 "speaker_id": -1,

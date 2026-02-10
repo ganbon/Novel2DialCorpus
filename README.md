@@ -17,7 +17,7 @@ Novel2DialCorpusは日本語の小説テキストから台詞群を会話とし�
 ```json
  {
         "group": 0,
-        "uttreances": [
+        "utterances": [
             {
                 "utterance": "あ、太郎!朝だよ!",
                 "speaker_id": 3,

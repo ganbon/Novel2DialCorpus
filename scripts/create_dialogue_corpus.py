@@ -25,7 +25,7 @@ def main():
             dialogue_corups_list.append(
                 {
                     "group": group,
-                    "uttreances": [
+                    "utterances": [
                         {
                             Utterance.UTTERANCE: sentence[1:-1],
                             Utterance.SPEKAERID: speaker,
